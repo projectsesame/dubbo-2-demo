@@ -1,0 +1,7 @@
+dubbo:
+  application:
+    name: dubbo-springboot-demo-consumer
+  protocol:
+    name: dubbo
+  registry:
+    address: N/A
